@@ -1,1 +1,1 @@
-# readfree
+# epub reader for readfree.org
